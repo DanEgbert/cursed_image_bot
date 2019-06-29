@@ -1,6 +1,7 @@
 # cursed_image_bot
 
 My entry to Hack Week for Discord.
+Also here's a server link if you want to test it: https://discord.gg/ENXagBB
 
 ## requirements/instructions for installing the bot
 (This is mostly for other people if they want to recreate it, not for Discord staff team themselves, since they probably don't have time to recreate every bot for judging, and they would know most of it anyway. This is more of a beginner's guide.)
